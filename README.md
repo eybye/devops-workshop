@@ -1,4 +1,4 @@
-# Git, Jenkins and Docker to build a CI/CD pipeline
+# Use Git, Jenkins and Docker to build a CI/CD pipeline
 
 This description is tested for linux/ubuntu only. It might work on other distros.
 
